@@ -1,9 +1,7 @@
 # HTTPtoHTTPS-Windows-IIS
 Http to Https rule for Windows Servers
 
-Pattern >(.*)
-
->(.*)
+Pattern ```(.*)```
 
 | Input  	|Type   	|Pattern   	|  
 |---	    |---	    |---	    	|
