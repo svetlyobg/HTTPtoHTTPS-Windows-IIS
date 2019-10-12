@@ -7,6 +7,6 @@ Pattern ```(.*) ```
 |---	    |---	    |---	    	|
 |{HTTPS}   	    |  Matches the Pattern 	   	|^OFF$   	   	  |
 
-Action type: ```Redirect```
-Redirect URL: ```https://example.org/{R:1}```
+Action type: ```Redirect``` <br>
+Redirect URL: ```https://example.org/{R:1}``` <br>
 Redirect type: ```Permanent (301)```
